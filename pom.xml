@@ -6,7 +6,7 @@
 
     <groupId>abstractclassroom</groupId>
     <artifactId>test2</artifactId>
-    <version>5</version>
+    <version>10</version>
 
     <distributionManagement>
         <repository>
